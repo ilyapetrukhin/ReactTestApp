@@ -1,0 +1,2 @@
+export const DROPPABLE_TYPE_JOB = 'JOB';
+export const DROPPABLE_TYPE_TECHNICIAN = 'TECHNICIAN';

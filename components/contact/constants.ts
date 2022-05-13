@@ -1,0 +1,10 @@
+export const CONTACT_LIST_COLUMN_ID = 'id';
+export const CONTACT_LIST_COLUMN_VEND = 'vend';
+export const CONTACT_LIST_COLUMN_FIRST_NAME = 'first_name';
+export const CONTACT_LIST_COLUMN_LAST_NAME = 'last_name';
+export const CONTACT_LIST_COLUMN_COMPANY_NAME = 'company_name';
+export const CONTACT_LIST_COLUMN_EMAIL = 'email';
+export const CONTACT_LIST_COLUMN_PHONES = 'phones';
+export const CONTACT_LIST_COLUMN_ADDRESS = 'address';
+export const CONTACT_LIST_COLUMN_CREATED_DATE = 'created_date';
+export const CONTACT_LIST_COLUMN_POOLS = 'pools';
